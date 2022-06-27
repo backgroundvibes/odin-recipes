@@ -10,3 +10,12 @@ h1 {
     text-align: center;
     
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+p, li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
