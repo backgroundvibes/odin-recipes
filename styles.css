@@ -1,0 +1,12 @@
+h1, h2 {
+    color: hsl(300, 70%, 15%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+    
+    background-color: hsl(0, 100%, 60%);
+    text-align: center;
+    
+}
